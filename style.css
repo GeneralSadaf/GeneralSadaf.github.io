@@ -1,16 +1,15 @@
 body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
     padding: 20px;
     line-height: 1.6;
-    color: #333;
-    background-color: #fdfdfd;
+    color: #c9d1d9;          
+    background-color: #0d1117; 
 }
 
 header {
     text-align: center;
-    margin-bottom: 40px;
+    padding-bottom: 40px;
 }
 
 h1 {
@@ -19,7 +18,7 @@ h1 {
 }
 
 h2 {
-    border-bottom: 2px solid #4AB6FF;
+    border-bottom: 2px solid #58a6ff; 
     padding-bottom: 5px;
     margin-top: 30px;
 }
@@ -34,16 +33,5 @@ ul li {
 }
 
 a {
-    color: #4AB6FF;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-footer {
-    text-align: center;
-    margin-top: 50px;
-    font-style: italic;
-}
+    color: #58a6ff; 
+    text-decoration:
